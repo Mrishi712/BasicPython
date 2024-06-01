@@ -1,0 +1,6 @@
+cat
+dog
+apple
+mango
+tiger
+lion
